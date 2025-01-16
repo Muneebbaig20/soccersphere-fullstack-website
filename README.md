@@ -46,4 +46,4 @@ Welcome to **SoccerSphere**, a comprehensive platform for soccer enthusiasts! Th
 - Submit inquiries, feedback, or requests through a contact form.
 
 ## Live Demo
-The frontend of SoccerSphere is currently live and can be accessed ##https://soccersphere.vercel.app/. Please note that the backend is not yet live. As a result, any requests requiring backend interaction may display an "Error Loading" message due to the absence of a connected backend.
+The frontend of SoccerSphere is currently live and can be accessed ## https://soccersphere.vercel.app/. Please note that the backend is not yet live. As a result, any requests requiring backend interaction may display an "Error Loading" message due to the absence of a connected backend.
